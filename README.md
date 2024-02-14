@@ -1,4 +1,3 @@
-# Hand-written-digit-prediction
 # Hand written digit prediction
 #Objective of the projrct
 The digit dataset consists of 8*8 pixel images of digits. The images attribute of the dataset stroes 8*8 arrays of the grayscale value for each images. We will use these arrays to visualize the frist 4 images. The target attribute of the dataset stroes the digit of each image represents
